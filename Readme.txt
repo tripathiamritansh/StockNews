@@ -1,21 +1,4 @@
-This tutorial can be shared on our Piazza board
-
-Name:  Amritansh Tripathi
-
-How many hours did it take you to complete this lab?
-5 hours
-
-Did you collaborate with any other students/TAs/Professors?
-No
-
-Did you use any external resources? (Cite them below)
-https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/
-
- What was your favorite part of the assignment?
-This assignment helped me understand the power of shell scripting and how much fun it is to make stuff through it. 
-I was able to learn a lot about shell scripting.
-
-Problem Statement: 
+ 
 "Often I am very interested in the latest news of the stock market. I wish to have a tool which could give me the latest headlines 
 for any stock easily.I thought terminal will be an interesting medium to make this working hence I wrote a script 
 to fetch the latest news for any user provided stock and list the headlines from the json response provide by the API." 
