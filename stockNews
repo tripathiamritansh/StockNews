@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ $(curl -s https://api.iextrading.com/1.0/stock/$1/news | grep -o "Unknown symbol" | wc -l) -gt 0 ] ; then
+
+	echo "Please check the company symbol"
+
+else
+	response=$( curl -s https://api.iextrading.com/1.0/stock/$1/news | python -m json.tool | grep "headline" | awk '{gsub(/"headline":/,"")}1'  | sed 's/$/  \\n/' )
+	printf "\n"
+	echo Latest $1 Headlines
+	printf "\n"
+	echo -e $response
+	
+fi
