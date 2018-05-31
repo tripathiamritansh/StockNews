@@ -43,13 +43,13 @@ Output :
 
 Latest fb Headlines
 
-"The 30+1 Portfolio: An Average Investor's Reasoning For Buying A Stock", 
- "France's Macron meeting with tech leaders May 23", 
- "Watch Mark Zuckerberg talk about privacy concerns in this 2010 interview", 
- "Mark Zuckerberg will meet with EU regulators as soon as next week", 
- "Personal email is dead - but I still can't quit it" 
- "Retirement Strategy: I Am Done Being Wrong About This Market", 
- "Fat Dividend Yields To Beef Up Your Portfolio In 2018", 
- "FANG Stocks Are Not Dead - Cramer's Mad Money (5/15/18)", 
- "Here's everything you can do with Whatsapp's new group chat features", 
- "George Soros' fund bought $35 million of Tesla bonds while loading up on Amazon, Netflix stock",
+"The 30+1 Portfolio: An Average Investor's Reasoning For Buying A Stock",  
+ "France's Macron meeting with tech leaders May 23",  
+ "Watch Mark Zuckerberg talk about privacy concerns in this 2010 interview",  
+ "Mark Zuckerberg will meet with EU regulators as soon as next week",  
+ "Personal email is dead - but I still can't quit it"  
+ "Retirement Strategy: I Am Done Being Wrong About This Market",  
+ "Fat Dividend Yields To Beef Up Your Portfolio In 2018",  
+ "FANG Stocks Are Not Dead - Cramer's Mad Money (5/15/18)",  
+ "Here's everything you can do with Whatsapp's new group chat features",  
+ "George Soros' fund bought $35 million of Tesla bonds while loading up on Amazon, Netflix stock",  
